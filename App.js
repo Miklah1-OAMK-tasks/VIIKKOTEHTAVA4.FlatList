@@ -76,15 +76,3 @@ const styles = StyleSheet.create({
   },
 
 });
-
-// Kaksi tapaa tehdä ja esittää renderItem
-// function renderItem({ item }) {     // renderItem on funktio, joka saa parametrinaan itemin
-//   return (
-//     <Text>{item.lastName}</Text>)   // renderItem palauttaa tekstin, joka on itemin lastName
-// }
-
-// const renderItem = ({ item }) => (  // renderItem on funktio, joka saa parametrinaan itemin
-//   <Text>{item.lastName}</Text>      // renderItem palauttaa tekstin, joka on itemin lastName
-// );
-
-
